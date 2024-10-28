@@ -1,10 +1,11 @@
 import './App.css'
+import Switch from '@mui/material/Switch';
 
 function App() {
 
   return (
     <>
-      <h1>Hello React!</h1>
+      <Switch color="secondary" />
     </>
   )
 }
